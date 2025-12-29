@@ -62,3 +62,13 @@ bot對話機器人，解答【國立成功大學資訊工程學系大學部】�
 3. 寄送email
 
 **不會回答不相關的問題**
+
+---
+FlowChart
+-
+<img width="802" height="463" alt="image" src="https://github.com/user-attachments/assets/bbad4609-8b13-4fb4-8503-99fe2f6facc8" />
+
+State Machine Diagram or a DAG (Directed Acyclic Graph)
+-
+<img width="802" height="460" alt="image" src="https://github.com/user-attachments/assets/fc174379-ac12-4329-8e78-1f9cc4f28f12" />
+
