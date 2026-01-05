@@ -19,7 +19,9 @@ bot對話機器人，解答【國立成功大學資訊工程學系大學部】�
   2. 找到Ollama欄位，把api url和api key填上去即可使用LLM
 ---
 
-## 創建專屬 Model
+## 創建專屬 Model（提供兩種方法）
+## 1. OpenWebUI Interface
+
 ### 基礎設定
 - 點擊使用者頭像 --> <kbd> Workspace </kbd> --> <kbd> Model</kbd>界面 --> <kbd> + New Model</kbd>
 - 選擇base model：
@@ -33,6 +35,9 @@ bot對話機器人，解答【國立成功大學資訊工程學系大學部】�
 - Tools
   - 在<kbd>Tools</kbd>界面選擇<kbd> New Tool </kbd> --> 把Email Tools的文字copy & paste到裏面 --> 按儲存。
   - 檔名設爲 Email Tools
+ 
+## 2. 直接使用json
+從<kbd>model.json</kbd>匯入已經設定好的model
 
 ---
 # 成大資工系大學部 顧問代理
